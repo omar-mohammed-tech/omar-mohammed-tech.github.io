@@ -1,0 +1,27 @@
+[
+  {
+    "label": "Wireframes",
+    "files": [
+      "01-homepage.jpeg",
+      "02-checklist.jpeg",
+      "03-folder.jpeg",
+      "04-new-folders.jpeg",
+      "05-notes.jpeg",
+      "06-reports.jpeg",
+      "07-appointment.jpeg",
+      "08-planner.jpeg",
+      "09-account.jpeg"
+    ],
+    "captions": [
+      "Home / dashboard",
+      "Daily vehicle checklist",
+      "Document folders",
+      "Create new folder",
+      "Notes",
+      "Compliance reports",
+      "Appointments",
+      "Planner",
+      "Account"
+    ]
+  }
+]

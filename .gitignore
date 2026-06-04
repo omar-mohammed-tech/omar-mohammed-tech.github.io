@@ -1,0 +1,23 @@
+# Claude Code local state and clipboard pastes — not part of the site
+.claude/
+.cp-images/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# Python helper scripts (kept local, not deployed)
+_dl/__pycache__/
+_dl/*.pyc
+
+# Logs / env
+*.log
+.env
+.env.local

@@ -1,0 +1,44 @@
+[
+  {
+    "label": "Mockups",
+    "files": [
+      "mockups-01.png",
+      "mockups-02.png",
+      "mockups-03.png",
+      "mockups-04.png",
+      "mockups-05.png",
+      "mockups-06.png",
+      "mockups-07.png",
+      "mockups-08.png",
+      "mockups-09.png",
+      "mockups-10.png"
+    ],
+    "captions": [
+      "Screen 1",
+      "Screen 2",
+      "Screen 3",
+      "Screen 4",
+      "Screen 5",
+      "Screen 6",
+      "Screen 7",
+      "Screen 8",
+      "Screen 9",
+      "Screen 10"
+    ]
+  },
+  {
+    "label": "Flowcharts",
+    "files": [
+      "flowcharts-01.png",
+      "flowcharts-02.png",
+      "flowcharts-03.png"
+    ]
+  },
+  {
+    "label": "BPMN Diagrams",
+    "files": [
+      "bpmn-diagrams-01.png",
+      "bpmn-diagrams-02.png"
+    ]
+  }
+]

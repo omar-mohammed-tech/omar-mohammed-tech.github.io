@@ -1,0 +1,39 @@
+[
+  {
+    "label": "Wireframes",
+    "files": [
+      "wireframes-01.png",
+      "wireframes-02.png",
+      "wireframes-03.png",
+      "wireframes-04.png",
+      "wireframes-06.png",
+      "wireframes-07.png",
+      "wireframes-08.png",
+      "wireframes-09.png",
+      "wireframes-10.png",
+      "wireframes-11.png"
+    ],
+    "captions": [
+      "Patient app \u00b7 1",
+      "Patient app \u00b7 2",
+      "Patient app \u00b7 3",
+      "Patient app \u00b7 4",
+      "Patient app \u00b7 5",
+      "Patient app \u00b7 6",
+      "Patient app \u00b7 7",
+      "Admin EHR \u00b7 1",
+      "Admin EHR \u00b7 2",
+      "Admin EHR \u00b7 3"
+    ]
+  },
+  {
+    "label": "Diagrams",
+    "files": [
+      "diagrams-01.png",
+      "diagrams-02.png",
+      "diagrams-03.png",
+      "diagrams-04.png",
+      "diagrams-05.png"
+    ]
+  }
+]

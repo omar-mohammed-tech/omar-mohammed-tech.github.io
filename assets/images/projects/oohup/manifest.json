@@ -1,0 +1,43 @@
+[
+  {
+    "label": "Wireframes",
+    "files": [
+      "wireframes-01.png",
+      "wireframes-02.png",
+      "wireframes-03.png",
+      "wireframes-04.png",
+      "wireframes-05.png",
+      "wireframes-06.png",
+      "wireframes-07.png",
+      "wireframes-09.png",
+      "wireframes-10.png",
+      "wireframes-11.png",
+      "wireframes-12.png",
+      "wireframes-13.png"
+    ],
+    "captions": [
+      "Advertiser \u00b7 1",
+      "Advertiser \u00b7 2",
+      "Advertiser \u00b7 3",
+      "Advertiser \u00b7 4",
+      "Advertiser \u00b7 5",
+      "Media owner \u00b7 1",
+      "Media owner \u00b7 2",
+      "Media owner \u00b7 3",
+      "Admin \u00b7 1",
+      "Admin \u00b7 2",
+      "Admin \u00b7 3",
+      "Admin \u00b7 4"
+    ]
+  },
+  {
+    "label": "Diagrams",
+    "files": [
+      "diagrams-01.png",
+      "diagrams-03.png",
+      "diagrams-04.png",
+      "diagrams-05.png",
+      "diagrams-07.png"
+    ]
+  }
+]
