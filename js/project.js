@@ -26,10 +26,17 @@
     .map((m) => `<div class="detail-metric"><div class="pm"><span class="pm-v">${m.value}</span><span class="pm-l">${m.label}</span></div></div>`)
     .join("");
 
-  /* cover */
+  /* cover — single banner image, or a multi-up showcase when p.showcase is set */
   const detailCover = document.getElementById("detailCover");
   detailCover.style.background = p.detailCoverBg || p.coverBg || "#ffffff";
-  detailCover.innerHTML = `<img src="${p.detailCover || p.cover}" alt="${p.title}" />`;
+  if (Array.isArray(p.showcase) && p.showcase.length) {
+    detailCover.classList.add("detail-cover--showcase");
+    detailCover.innerHTML = p.showcase
+      .map((s) => `<img src="${s.src}" alt="${s.alt || p.title}" loading="lazy" decoding="async" />`)
+      .join("");
+  } else {
+    detailCover.innerHTML = `<img src="${p.detailCover || p.cover}" alt="${p.title}" />`;
+  }
 
   /* helpers */
   const list = (items) => `<ul class="detail-list">${items.map((x) => `<li>${x}</li>`).join("")}</ul>`;

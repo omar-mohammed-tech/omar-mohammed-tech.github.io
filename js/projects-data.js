@@ -17,6 +17,13 @@ window.PROJECTS = [
     coverBg: "#ffffff",
     detailCover: "assets/images/projects/unstuck/01-exposure-log.png",
     detailCoverBg: "#f1edf7",
+    /* Showcase replaces the single detail-cover image with a 4-up row of marketing shots */
+    showcase: [
+      { src: "assets/images/projects/unstuck/store/00-cover.png", alt: "Unstuck — Anxiety and panic toolkit" },
+      { src: "assets/images/projects/unstuck/store/01-exposure-log.png", alt: "Exposure Journal" },
+      { src: "assets/images/projects/unstuck/store/02-evaluation.png", alt: "Personalized Evaluation" },
+      { src: "assets/images/projects/unstuck/store/03-sos.png", alt: "Panic Attack Help" },
+    ],
     tagline:
       "A cross-platform anxiety app with an LLM-powered exposure coach — designed, built, and shipped end-to-end solo across iOS and Android.",
     sections: [

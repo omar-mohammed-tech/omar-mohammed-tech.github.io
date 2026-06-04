@@ -357,6 +357,16 @@ ul, ol { list-style: none; padding: 0; }
   width: auto; max-width: 100%; max-height: 440px;
   object-fit: contain; border-radius: 10px;
 }
+/* Showcase variant: 4-up row of marketing screenshots (portrait phones) */
+.detail-cover--showcase {
+  display: grid; grid-template-columns: repeat(4, 1fr); gap: 18px;
+  place-items: stretch; padding: 28px;
+}
+.detail-cover--showcase img {
+  width: 100%; max-width: none; max-height: none;
+  aspect-ratio: 9 / 16; object-fit: cover; border-radius: 14px;
+  box-shadow: 0 18px 36px -22px hsl(240 10% 10% / 0.35);
+}
 
 .detail-body { padding: 20px 0 40px; }
 .detail-grid { display: grid; grid-template-columns: 1fr 300px; gap: 48px; align-items: start; }
@@ -443,6 +453,7 @@ ul, ol { list-style: none; padding: 0; }
   .skills-grid { grid-template-columns: repeat(2, 1fr); }
   .detail-grid { grid-template-columns: 1fr; gap: 30px; }
   .detail-aside { position: static; }
+  .detail-cover--showcase { grid-template-columns: repeat(2, 1fr); gap: 14px; }
 }
 @media (max-width: 640px) {
   .container { padding-inline: 18px; }
