@@ -126,8 +126,8 @@ ul, ol { list-style: none; padding: 0; }
 /* ===================================================================
    Header / Nav
    =================================================================== */
-.site-header { position: sticky; top: 0; z-index: 100; background: hsl(220 6% 96% / 0.8); border-bottom: 1px solid transparent; transition: background .25s, border-color .25s; }
-.site-header.scrolled { background: hsl(220 6% 96% / 0.92); border-bottom-color: var(--border); }
+.site-header { position: sticky; top: 0; z-index: 100; background: hsl(220 6% 96%); border-bottom: 1px solid transparent; transition: border-color .25s; }
+.site-header.scrolled { border-bottom-color: var(--border); }
 /* 3-zone grid: equal side columns keep the nav optically centered.
    Brand = avatar + name, always visible on the left. */
 .header-inner { display: grid; grid-template-columns: 1fr auto 1fr; align-items: center; height: 72px; }
