@@ -18,7 +18,7 @@ window.PROJECTS = [
     detailCover: "assets/images/projects/unstuck/01-exposure-log.png",
     detailCoverBg: "#f1edf7",
     tagline:
-      "A cross platform mobile app for anxiety, designed and built end to end solo, with an AI exposure coach powered by large language models.",
+      "A cross-platform anxiety app with an LLM-powered exposure coach — designed, built, and shipped end-to-end solo across iOS and Android.",
     sections: [
       {
         h: "Overview",
@@ -118,7 +118,7 @@ window.PROJECTS = [
     detailCover: "assets/images/projects/omq-autoparts/01-storefront.png",
     detailCoverBg: "#10151c",
     tagline:
-      "A full stack eCommerce platform for automotive parts, with vehicle fit search, dual payment gateways, and a complete admin back office, built end to end solo.",
+      "A full-stack automotive parts eCommerce platform — ~5,000 SKUs, vehicle-fit search, dual checkout, built end-to-end solo.",
     sections: [
       {
         h: "Overview",
@@ -227,7 +227,7 @@ window.PROJECTS = [
     cover: "assets/images/projects/haul-pro.jpg",
     coverBg: "#1f262f",
     tagline:
-      "A multi-tenant digital compliance platform that retires paper-based vehicle and driver checks for transport fleets.",
+      "Multi-tenant compliance platform that retires paper-based vehicle and driver checks for transport fleets — with an offline-first driver app.",
     summary:
       "HaulPro replaces paper-based vehicle and driver compliance for transport and logistics companies. It pairs a web portal for Super Admins and Managers with a mobile-first app for Drivers: daily checklists, document uploads, notes, and appointments on one side; fleet, user, and compliance oversight on the other.",
     problem: [
@@ -294,7 +294,7 @@ window.PROJECTS = [
     cover: "assets/images/projects/sprk-music.jpg",
     coverBg: "#ffffff",
     tagline:
-      "A short-form, music-focused social video platform for independent artists and the fans who discover them.",
+      "A music-focused social video MVP for independent artists and fans — native iOS and Android, with separate Artist and Fan experiences.",
     summary:
       "SPRK Music is a music-first social video app with distinct Artist and Fan experiences: onboarding, secure auth, video creation and playback, social engagement, discovery, and profile management across iOS and Android. I owned it end to end as Product Owner.",
     problem: [
@@ -364,7 +364,7 @@ window.PROJECTS = [
     cover: "assets/images/projects/fleetfix.jpg",
     coverBg: "#ffffff",
     tagline:
-      "A mobile-first, multi-vertical on-demand platform unifying roadside assistance, car rentals, and delivery.",
+      "Mobile-first on-demand platform unifying roadside assistance, rentals, and delivery — 3 service verticals, real-time tracking, API-driven.",
     summary:
       "FleetFix centralizes booking, tracking, and management of roadside assistance, car rentals, and delivery services through API-driven integrations, replacing fragmented, manual workflows with one real-time interface.",
     problem: [
@@ -414,7 +414,7 @@ window.PROJECTS = [
     cover: "assets/images/projects/mgc-freight.jpg",
     coverBg: "#ffffff",
     tagline:
-      "A web-based freight booking platform unifying multi-carrier shipping (FedEx, UPS, USPS) through APIs.",
+      "Multi-carrier freight booking across FedEx, UPS, and USPS — centralised rate comparison and real-time shipment visibility through API integrations.",
     summary:
       "MGC Freight lets businesses book, track, and manage shipments across multiple carriers through API-driven integrations, eliminating manual logistics workflows and giving real-time visibility across FedEx, UPS, and USPS.",
     problem: [
@@ -466,7 +466,7 @@ window.PROJECTS = [
     cover: "assets/images/projects/accomplish-health.jpg",
     coverBg: "#ffffff",
     tagline:
-      "An enterprise appointment-booking and admin platform for healthcare providers and patients.",
+      "HIPAA-compliant booking platform for healthcare providers and patients — insurance verification and payments in one flow, cutting manual booking time by 60%.",
     summary:
       "Accomplish Health integrates insurance verification and payments into a single HIPAA-compliant, audit-ready booking journey, with role-based dashboards for admins, clinicians, and operations teams.",
     problem: [
@@ -517,7 +517,7 @@ window.PROJECTS = [
     cover: "assets/images/projects/oohup.jpg",
     coverBg: "#ffffff",
     tagline:
-      "A marketplace that digitizes Out-of-Home advertising: browse, book, and manage ad inventory.",
+      "Marketplace digitising Out-of-Home advertising — map-based inventory browsing and automated scheduling, taken from raw concept to scoped MVP.",
     summary:
       "OOHUP connects advertisers and media owners through a centralized system for browsing, booking, and managing Out-of-Home ad inventory, with interactive map-based browsing, real-time availability, and automated scheduling. I took it from raw concept to scoped MVP.",
     problem: [

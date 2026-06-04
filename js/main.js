@@ -7,12 +7,6 @@
 
   list.innerHTML = (window.PROJECTS || [])
     .map((p) => {
-      const gs = (window.GALLERIES && window.GALLERIES[p.slug]) || p.galleries || [];
-      const galleryCount = gs.reduce((n, g) => n + g.images.length, 0);
-      const docNote = [
-        p.documents.length ? `${p.documents.length} ${p.documents.length === 1 ? "doc" : "docs"}` : "",
-        galleryCount ? `${galleryCount} screens` : "",
-      ].filter(Boolean).join(" · ");
       const featured = /built solo/i.test(p.status || "");
       return `
       <a class="project-card reveal${featured ? " featured" : ""}" href="project.html?p=${p.slug}" style="--t:${p.theme}">
@@ -26,13 +20,8 @@
             <span class="project-role">${p.role}</span>
           </div>
           <p class="project-tagline">${p.tagline}</p>
-          <div class="project-metrics">
-            ${p.metrics.map((m) => `<div class="pm"><span class="pm-v">${m.value}</span><span class="pm-l">${m.label}</span></div>`).join("")}
-          </div>
-          <ul class="project-tags">${p.tools.slice(0, 5).map((t) => `<li class="pill">${t}</li>`).join("")}</ul>
           <div class="project-foot">
             <span class="project-cta">Read the case study ${arrow}</span>
-            ${docNote ? `<span class="project-docs-note">${docNote}</span>` : ""}
           </div>
         </div>
       </a>`;
