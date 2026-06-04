@@ -268,7 +268,7 @@ ul, ol { list-style: none; padding: 0; }
 .card-flag { position: absolute; top: 14px; left: 14px; z-index: 3; display: inline-flex; align-items: center; gap: 5px; padding: 5px 11px 5px 9px; border-radius: 999px; font-family: var(--mono); font-size: 0.64rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: #fff; background: var(--t); box-shadow: 0 8px 18px -8px color-mix(in srgb, var(--t) 70%, transparent); }
 .card-flag::before { content: "\2605"; font-size: 0.72rem; line-height: 1; }
 
-.project-body { padding: 34px 36px; display: flex; flex-direction: column; gap: 18px; border-left: 1px solid var(--border-soft); }
+.project-body { padding: 34px 36px; display: flex; flex-direction: column; gap: 18px; }
 .project-top { display: flex; align-items: baseline; justify-content: space-between; gap: 14px; }
 .project-title { font-family: var(--display); font-size: 1.6rem; font-weight: 700; letter-spacing: -0.02em; line-height: 1.15; }
 .project-role { font-size: 0.76rem; color: var(--primary-2); font-weight: 600; font-family: var(--mono); white-space: nowrap; line-height: 1.2; letter-spacing: 0.01em; }
@@ -445,7 +445,7 @@ ul, ol { list-style: none; padding: 0; }
   .avatar-wrap { order: -1; }
   .about-grid { grid-template-columns: 1fr; gap: 26px; }
   .project-card { grid-template-columns: 1fr; min-height: unset; }   /* desktop min-height is a row floor; stacked layout doesn't need it */
-  .project-body { min-width: 0; border-left: 0; border-top: 1px solid var(--border-soft); }   /* stacked: hairline divider moves from left edge to top edge */
+  .project-body { min-width: 0; }   /* let the 1fr column shrink to the viewport */
   .project-top { flex-wrap: wrap; }              /* title + role stack instead of forcing width */
   .project-role { white-space: normal; }         /* long role text was forcing card overflow */
   .project-cover { min-height: 200px; aspect-ratio: 16/9; }
