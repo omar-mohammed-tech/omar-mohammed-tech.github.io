@@ -5,28 +5,47 @@
   const list = document.getElementById("projectList");
   const arrow = '<svg viewBox="0 0 24 24" width="16" height="16"><path fill="currentColor" d="M13.2 5.2 11.8 6.6 16.2 11H4v2h12.2l-4.4 4.4 1.4 1.4 6.8-6.8z"/></svg>';
 
-  list.innerHTML = (window.PROJECTS || [])
-    .map((p) => {
-      const featured = /built solo/i.test(p.status || "");
-      return `
-      <a class="project-card reveal${featured ? " featured" : ""}" href="project.html?p=${p.slug}" style="--t:${p.theme}">
-        <div class="project-cover" style="background:${p.coverBg || '#ffffff'}">
-          ${featured ? `<span class="card-flag">${p.status}</span>` : ""}
-          <img src="${p.cover}" alt="${p.title} preview" loading="lazy" decoding="async" />
+  const all = window.PROJECTS || [];
+  const isSolo = (p) => /built solo/i.test(p.status || "");
+  const tags = (p, n) => (p.tools || []).slice(0, n).map((t) => `<li class="ptag">${t}</li>`).join("");
+
+  /* Spotlight — the solo-built flagship products (large, brand-logo cover) */
+  const spotlight = (p) => `
+    <a class="spot-card reveal" href="project.html?p=${p.slug}" style="--t:${p.theme}">
+      <div class="spot-media" style="background:${p.coverBg || '#ffffff'}">
+        <span class="spot-flag">${p.status}</span>
+        <img src="${p.cover}" alt="${p.title} logo" loading="lazy" decoding="async" />
+      </div>
+      <div class="spot-body">
+        <p class="card-domain">${p.domain}</p>
+        <h3 class="spot-title">${p.title}</h3>
+        <p class="spot-tagline">${p.tagline}</p>
+        <ul class="ptags">${tags(p, 3)}</ul>
+        <div class="card-foot">
+          <span class="project-cta">Read the case study ${arrow}</span>
         </div>
-        <div class="project-body">
-          <div class="project-top">
-            <h3 class="project-title">${p.title}</h3>
-            <span class="project-role">${p.role}</span>
-          </div>
-          <p class="project-tagline">${p.tagline}</p>
-          <div class="project-foot">
-            <span class="project-cta">Read the case study ${arrow}</span>
-          </div>
+      </div>
+    </a>`;
+
+  /* Grid — the BA / Product Owner case studies (metadata-forward, scannable) */
+  const gridCard = (p) => `
+    <a class="grid-card reveal" href="project.html?p=${p.slug}">
+      <div class="grid-body">
+        <p class="card-domain">${p.domain}</p>
+        <h3 class="grid-title">${p.title}</h3>
+        <p class="grid-role">${p.role}</p>
+        <p class="grid-tagline">${p.tagline}</p>
+        <ul class="ptags">${tags(p, 3)}</ul>
+        <div class="card-foot">
+          <span class="grid-status">${p.status}</span>
+          <span class="project-cta sm">Case study ${arrow}</span>
         </div>
-      </a>`;
-    })
-    .join("");
+      </div>
+    </a>`;
+
+  list.innerHTML =
+    `<div class="spotlight-row">${all.filter(isSolo).map(spotlight).join("")}</div>` +
+    `<div class="grid-row">${all.filter((p) => !isSolo(p)).map(gridCard).join("")}</div>`;
 
   /* nav state */
   const header = document.getElementById("siteHeader");

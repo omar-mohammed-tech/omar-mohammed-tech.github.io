@@ -15,6 +15,7 @@ window.PROJECTS = [
     theme: "#2A7D74",
     cover: "assets/images/projects/unstuck-logo.png",
     coverBg: "#ffffff",
+    cardImage: "assets/images/projects/unstuck/02-evaluation.png",
     detailCover: "assets/images/projects/unstuck/01-exposure-log.png",
     detailCoverBg: "#f1edf7",
     /* Showcase replaces the single detail-cover image with a 4-up row of marketing shots */
@@ -122,6 +123,7 @@ window.PROJECTS = [
     theme: "#e8743b",
     cover: "assets/images/projects/omq-logo.png",
     coverBg: "#000000",
+    cardImage: "assets/images/projects/omq-autoparts/01-storefront.png",
     detailCover: "assets/images/projects/omq-autoparts/01-storefront.png",
     detailCoverBg: "#10151c",
     tagline:
@@ -233,6 +235,7 @@ window.PROJECTS = [
     theme: "#3b82f6",
     cover: "assets/images/projects/haul-pro.jpg",
     coverBg: "#1f262f",
+    cardImage: "assets/images/projects/haul-pro/01-homepage.jpeg",
     tagline:
       "Multi-tenant compliance platform that retires paper-based vehicle and driver checks for transport fleets — with an offline-first driver app.",
     summary:
@@ -300,6 +303,7 @@ window.PROJECTS = [
     theme: "#a855f7",
     cover: "assets/images/projects/sprk-music.jpg",
     coverBg: "#ffffff",
+    cardImage: "assets/images/projects/sprk-music/05.png",
     tagline:
       "A music-focused social video MVP for independent artists and fans — native iOS and Android, with separate Artist and Fan experiences.",
     summary:
@@ -370,6 +374,7 @@ window.PROJECTS = [
     theme: "#f59e0b",
     cover: "assets/images/projects/fleetfix.jpg",
     coverBg: "#ffffff",
+    cardImage: "assets/images/projects/fleetfix/figma-wireframes-04.png",
     tagline:
       "Mobile-first on-demand platform unifying roadside assistance, rentals, and delivery — 3 service verticals, real-time tracking, API-driven.",
     summary:
@@ -420,6 +425,7 @@ window.PROJECTS = [
     theme: "#06b6d4",
     cover: "assets/images/projects/mgc-freight.jpg",
     coverBg: "#ffffff",
+    cardImage: "assets/images/projects/mgc-freight/mockups-01.png",
     tagline:
       "Multi-carrier freight booking across FedEx, UPS, and USPS — centralised rate comparison and real-time shipment visibility through API integrations.",
     summary:
@@ -472,6 +478,7 @@ window.PROJECTS = [
     theme: "#10b981",
     cover: "assets/images/projects/accomplish-health.jpg",
     coverBg: "#ffffff",
+    cardImage: "assets/images/projects/accomplish-health/wireframes-01.png",
     tagline:
       "HIPAA-compliant booking platform for healthcare providers and patients — insurance verification and payments in one flow, cutting manual booking time by 60%.",
     summary:
@@ -523,6 +530,7 @@ window.PROJECTS = [
     theme: "#f43f5e",
     cover: "assets/images/projects/oohup.jpg",
     coverBg: "#ffffff",
+    cardImage: "assets/images/projects/oohup/wireframes-01.png",
     tagline:
       "Marketplace digitising Out-of-Home advertising — map-based inventory browsing and automated scheduling, taken from raw concept to scoped MVP.",
     summary:
