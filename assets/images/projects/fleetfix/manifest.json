@@ -2,47 +2,47 @@
   {
     "label": "Flowcharts",
     "files": [
-      "flowcharts-01.png",
-      "flowcharts-02.png",
-      "flowcharts-03.png",
-      "flowcharts-04.png",
-      "flowcharts-05.png",
-      "flowcharts-06.png",
-      "flowcharts-07.png",
-      "flowcharts-08.png",
-      "flowcharts-09.png",
-      "flowcharts-10.png",
-      "flowcharts-11.png",
-      "flowcharts-12.png"
+      "flowcharts-01.webp",
+      "flowcharts-02.webp",
+      "flowcharts-03.webp",
+      "flowcharts-04.webp",
+      "flowcharts-05.webp",
+      "flowcharts-06.webp",
+      "flowcharts-07.webp",
+      "flowcharts-08.webp",
+      "flowcharts-09.webp",
+      "flowcharts-10.webp",
+      "flowcharts-11.webp",
+      "flowcharts-12.webp"
     ]
   },
   {
     "label": "BPMN Diagrams",
     "files": [
-      "bpmn-diagrams-01.png",
-      "bpmn-diagrams-02.png",
-      "bpmn-diagrams-03.png",
-      "bpmn-diagrams-04.png"
+      "bpmn-diagrams-01.webp",
+      "bpmn-diagrams-02.webp",
+      "bpmn-diagrams-03.webp",
+      "bpmn-diagrams-04.webp"
     ]
   },
   {
     "label": "Use Case Diagrams",
     "files": [
-      "use-case-diagrams-01.png",
-      "use-case-diagrams-02.png",
-      "use-case-diagrams-03.png"
+      "use-case-diagrams-01.webp",
+      "use-case-diagrams-02.webp",
+      "use-case-diagrams-03.webp"
     ]
   },
   {
     "label": "Figma Wireframes",
     "files": [
-      "figma-wireframes-02.png",
-      "figma-wireframes-04.png",
-      "figma-wireframes-05.png",
-      "figma-wireframes-06.png",
-      "figma-wireframes-08.png",
-      "figma-wireframes-09.png",
-      "figma-wireframes-10.png"
+      "figma-wireframes-02.webp",
+      "figma-wireframes-04.webp",
+      "figma-wireframes-05.webp",
+      "figma-wireframes-06.webp",
+      "figma-wireframes-08.webp",
+      "figma-wireframes-09.webp",
+      "figma-wireframes-10.webp"
     ],
     "captions": [
       "Customer \u00b7 Onboarding",

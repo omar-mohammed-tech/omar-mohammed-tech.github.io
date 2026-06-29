@@ -2,16 +2,16 @@
   {
     "label": "Mockups",
     "files": [
-      "mockups-01.png",
-      "mockups-02.png",
-      "mockups-03.png",
-      "mockups-04.png",
-      "mockups-05.png",
-      "mockups-06.png",
-      "mockups-07.png",
-      "mockups-08.png",
-      "mockups-09.png",
-      "mockups-10.png"
+      "mockups-01.webp",
+      "mockups-02.webp",
+      "mockups-03.webp",
+      "mockups-04.webp",
+      "mockups-05.webp",
+      "mockups-06.webp",
+      "mockups-07.webp",
+      "mockups-08.webp",
+      "mockups-09.webp",
+      "mockups-10.webp"
     ],
     "captions": [
       "Screen 1",
@@ -29,16 +29,16 @@
   {
     "label": "Flowcharts",
     "files": [
-      "flowcharts-01.png",
-      "flowcharts-02.png",
-      "flowcharts-03.png"
+      "flowcharts-01.webp",
+      "flowcharts-02.webp",
+      "flowcharts-03.webp"
     ]
   },
   {
     "label": "BPMN Diagrams",
     "files": [
-      "bpmn-diagrams-01.png",
-      "bpmn-diagrams-02.png"
+      "bpmn-diagrams-01.webp",
+      "bpmn-diagrams-02.webp"
     ]
   }
 ]

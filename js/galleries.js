@@ -5,43 +5,43 @@ window.GALLERIES = {
       "label": "Wireframes",
       "images": [
         {
-          "src": "assets/images/projects/accomplish-health/wireframes-01.png",
+          "src": "assets/images/projects/accomplish-health/wireframes-01.webp",
           "caption": "Patient app \u00b7 1"
         },
         {
-          "src": "assets/images/projects/accomplish-health/wireframes-02.png",
+          "src": "assets/images/projects/accomplish-health/wireframes-02.webp",
           "caption": "Patient app \u00b7 2"
         },
         {
-          "src": "assets/images/projects/accomplish-health/wireframes-03.png",
+          "src": "assets/images/projects/accomplish-health/wireframes-03.webp",
           "caption": "Patient app \u00b7 3"
         },
         {
-          "src": "assets/images/projects/accomplish-health/wireframes-04.png",
+          "src": "assets/images/projects/accomplish-health/wireframes-04.webp",
           "caption": "Patient app \u00b7 4"
         },
         {
-          "src": "assets/images/projects/accomplish-health/wireframes-06.png",
+          "src": "assets/images/projects/accomplish-health/wireframes-06.webp",
           "caption": "Patient app \u00b7 5"
         },
         {
-          "src": "assets/images/projects/accomplish-health/wireframes-07.png",
+          "src": "assets/images/projects/accomplish-health/wireframes-07.webp",
           "caption": "Patient app \u00b7 6"
         },
         {
-          "src": "assets/images/projects/accomplish-health/wireframes-08.png",
+          "src": "assets/images/projects/accomplish-health/wireframes-08.webp",
           "caption": "Patient app \u00b7 7"
         },
         {
-          "src": "assets/images/projects/accomplish-health/wireframes-09.png",
+          "src": "assets/images/projects/accomplish-health/wireframes-09.webp",
           "caption": "Admin EHR \u00b7 1"
         },
         {
-          "src": "assets/images/projects/accomplish-health/wireframes-10.png",
+          "src": "assets/images/projects/accomplish-health/wireframes-10.webp",
           "caption": "Admin EHR \u00b7 2"
         },
         {
-          "src": "assets/images/projects/accomplish-health/wireframes-11.png",
+          "src": "assets/images/projects/accomplish-health/wireframes-11.webp",
           "caption": "Admin EHR \u00b7 3"
         }
       ]
@@ -50,23 +50,23 @@ window.GALLERIES = {
       "label": "Diagrams",
       "images": [
         {
-          "src": "assets/images/projects/accomplish-health/diagrams-01.png",
+          "src": "assets/images/projects/accomplish-health/diagrams-01.webp",
           "caption": "Diagram 1"
         },
         {
-          "src": "assets/images/projects/accomplish-health/diagrams-02.png",
+          "src": "assets/images/projects/accomplish-health/diagrams-02.webp",
           "caption": "Diagram 2"
         },
         {
-          "src": "assets/images/projects/accomplish-health/diagrams-03.png",
+          "src": "assets/images/projects/accomplish-health/diagrams-03.webp",
           "caption": "Diagram 3"
         },
         {
-          "src": "assets/images/projects/accomplish-health/diagrams-04.png",
+          "src": "assets/images/projects/accomplish-health/diagrams-04.webp",
           "caption": "Diagram 4"
         },
         {
-          "src": "assets/images/projects/accomplish-health/diagrams-05.png",
+          "src": "assets/images/projects/accomplish-health/diagrams-05.webp",
           "caption": "Diagram 5"
         }
       ]
@@ -77,31 +77,31 @@ window.GALLERIES = {
       "label": "Figma Wireframes",
       "images": [
         {
-          "src": "assets/images/projects/fleetfix/figma-wireframes-02.png",
+          "src": "assets/images/projects/fleetfix/figma-wireframes-02.webp",
           "caption": "Customer \u00b7 Onboarding"
         },
         {
-          "src": "assets/images/projects/fleetfix/figma-wireframes-04.png",
+          "src": "assets/images/projects/fleetfix/figma-wireframes-04.webp",
           "caption": "Customer \u00b7 Roadside services flow"
         },
         {
-          "src": "assets/images/projects/fleetfix/figma-wireframes-05.png",
+          "src": "assets/images/projects/fleetfix/figma-wireframes-05.webp",
           "caption": "Customer \u00b7 Rental car delivery"
         },
         {
-          "src": "assets/images/projects/fleetfix/figma-wireframes-06.png",
+          "src": "assets/images/projects/fleetfix/figma-wireframes-06.webp",
           "caption": "Customer \u00b7 Shared features"
         },
         {
-          "src": "assets/images/projects/fleetfix/figma-wireframes-08.png",
+          "src": "assets/images/projects/fleetfix/figma-wireframes-08.webp",
           "caption": "Fixer \u00b7 Onboarding"
         },
         {
-          "src": "assets/images/projects/fleetfix/figma-wireframes-09.png",
+          "src": "assets/images/projects/fleetfix/figma-wireframes-09.webp",
           "caption": "Fixer \u00b7 Jobs flow"
         },
         {
-          "src": "assets/images/projects/fleetfix/figma-wireframes-10.png",
+          "src": "assets/images/projects/fleetfix/figma-wireframes-10.webp",
           "caption": "Fixer \u00b7 Other screens"
         }
       ]
@@ -110,51 +110,51 @@ window.GALLERIES = {
       "label": "Flowcharts",
       "images": [
         {
-          "src": "assets/images/projects/fleetfix/flowcharts-01.png",
+          "src": "assets/images/projects/fleetfix/flowcharts-01.webp",
           "caption": "Flowchart 1"
         },
         {
-          "src": "assets/images/projects/fleetfix/flowcharts-02.png",
+          "src": "assets/images/projects/fleetfix/flowcharts-02.webp",
           "caption": "Flowchart 2"
         },
         {
-          "src": "assets/images/projects/fleetfix/flowcharts-03.png",
+          "src": "assets/images/projects/fleetfix/flowcharts-03.webp",
           "caption": "Flowchart 3"
         },
         {
-          "src": "assets/images/projects/fleetfix/flowcharts-04.png",
+          "src": "assets/images/projects/fleetfix/flowcharts-04.webp",
           "caption": "Flowchart 4"
         },
         {
-          "src": "assets/images/projects/fleetfix/flowcharts-05.png",
+          "src": "assets/images/projects/fleetfix/flowcharts-05.webp",
           "caption": "Flowchart 5"
         },
         {
-          "src": "assets/images/projects/fleetfix/flowcharts-06.png",
+          "src": "assets/images/projects/fleetfix/flowcharts-06.webp",
           "caption": "Flowchart 6"
         },
         {
-          "src": "assets/images/projects/fleetfix/flowcharts-07.png",
+          "src": "assets/images/projects/fleetfix/flowcharts-07.webp",
           "caption": "Flowchart 7"
         },
         {
-          "src": "assets/images/projects/fleetfix/flowcharts-08.png",
+          "src": "assets/images/projects/fleetfix/flowcharts-08.webp",
           "caption": "Flowchart 8"
         },
         {
-          "src": "assets/images/projects/fleetfix/flowcharts-09.png",
+          "src": "assets/images/projects/fleetfix/flowcharts-09.webp",
           "caption": "Flowchart 9"
         },
         {
-          "src": "assets/images/projects/fleetfix/flowcharts-10.png",
+          "src": "assets/images/projects/fleetfix/flowcharts-10.webp",
           "caption": "Flowchart 10"
         },
         {
-          "src": "assets/images/projects/fleetfix/flowcharts-11.png",
+          "src": "assets/images/projects/fleetfix/flowcharts-11.webp",
           "caption": "Flowchart 11"
         },
         {
-          "src": "assets/images/projects/fleetfix/flowcharts-12.png",
+          "src": "assets/images/projects/fleetfix/flowcharts-12.webp",
           "caption": "Flowchart 12"
         }
       ]
@@ -163,19 +163,19 @@ window.GALLERIES = {
       "label": "BPMN Diagrams",
       "images": [
         {
-          "src": "assets/images/projects/fleetfix/bpmn-diagrams-01.png",
+          "src": "assets/images/projects/fleetfix/bpmn-diagrams-01.webp",
           "caption": "BPMN Diagram 1"
         },
         {
-          "src": "assets/images/projects/fleetfix/bpmn-diagrams-02.png",
+          "src": "assets/images/projects/fleetfix/bpmn-diagrams-02.webp",
           "caption": "BPMN Diagram 2"
         },
         {
-          "src": "assets/images/projects/fleetfix/bpmn-diagrams-03.png",
+          "src": "assets/images/projects/fleetfix/bpmn-diagrams-03.webp",
           "caption": "BPMN Diagram 3"
         },
         {
-          "src": "assets/images/projects/fleetfix/bpmn-diagrams-04.png",
+          "src": "assets/images/projects/fleetfix/bpmn-diagrams-04.webp",
           "caption": "BPMN Diagram 4"
         }
       ]
@@ -184,15 +184,15 @@ window.GALLERIES = {
       "label": "Use Case Diagrams",
       "images": [
         {
-          "src": "assets/images/projects/fleetfix/use-case-diagrams-01.png",
+          "src": "assets/images/projects/fleetfix/use-case-diagrams-01.webp",
           "caption": "Use Case Diagram 1"
         },
         {
-          "src": "assets/images/projects/fleetfix/use-case-diagrams-02.png",
+          "src": "assets/images/projects/fleetfix/use-case-diagrams-02.webp",
           "caption": "Use Case Diagram 2"
         },
         {
-          "src": "assets/images/projects/fleetfix/use-case-diagrams-03.png",
+          "src": "assets/images/projects/fleetfix/use-case-diagrams-03.webp",
           "caption": "Use Case Diagram 3"
         }
       ]
@@ -203,39 +203,39 @@ window.GALLERIES = {
       "label": "Wireframes",
       "images": [
         {
-          "src": "assets/images/projects/haul-pro/01-homepage.jpeg",
+          "src": "assets/images/projects/haul-pro/01-homepage.webp",
           "caption": "Home / dashboard"
         },
         {
-          "src": "assets/images/projects/haul-pro/02-checklist.jpeg",
+          "src": "assets/images/projects/haul-pro/02-checklist.webp",
           "caption": "Daily vehicle checklist"
         },
         {
-          "src": "assets/images/projects/haul-pro/03-folder.jpeg",
+          "src": "assets/images/projects/haul-pro/03-folder.webp",
           "caption": "Document folders"
         },
         {
-          "src": "assets/images/projects/haul-pro/04-new-folders.jpeg",
+          "src": "assets/images/projects/haul-pro/04-new-folders.webp",
           "caption": "Create new folder"
         },
         {
-          "src": "assets/images/projects/haul-pro/05-notes.jpeg",
+          "src": "assets/images/projects/haul-pro/05-notes.webp",
           "caption": "Notes"
         },
         {
-          "src": "assets/images/projects/haul-pro/06-reports.jpeg",
+          "src": "assets/images/projects/haul-pro/06-reports.webp",
           "caption": "Compliance reports"
         },
         {
-          "src": "assets/images/projects/haul-pro/07-appointment.jpeg",
+          "src": "assets/images/projects/haul-pro/07-appointment.webp",
           "caption": "Appointments"
         },
         {
-          "src": "assets/images/projects/haul-pro/08-planner.jpeg",
+          "src": "assets/images/projects/haul-pro/08-planner.webp",
           "caption": "Planner"
         },
         {
-          "src": "assets/images/projects/haul-pro/09-account.jpeg",
+          "src": "assets/images/projects/haul-pro/09-account.webp",
           "caption": "Account"
         }
       ]
@@ -246,43 +246,43 @@ window.GALLERIES = {
       "label": "Mockups",
       "images": [
         {
-          "src": "assets/images/projects/mgc-freight/mockups-01.png",
+          "src": "assets/images/projects/mgc-freight/mockups-01.webp",
           "caption": "Screen 1"
         },
         {
-          "src": "assets/images/projects/mgc-freight/mockups-02.png",
+          "src": "assets/images/projects/mgc-freight/mockups-02.webp",
           "caption": "Screen 2"
         },
         {
-          "src": "assets/images/projects/mgc-freight/mockups-03.png",
+          "src": "assets/images/projects/mgc-freight/mockups-03.webp",
           "caption": "Screen 3"
         },
         {
-          "src": "assets/images/projects/mgc-freight/mockups-04.png",
+          "src": "assets/images/projects/mgc-freight/mockups-04.webp",
           "caption": "Screen 4"
         },
         {
-          "src": "assets/images/projects/mgc-freight/mockups-05.png",
+          "src": "assets/images/projects/mgc-freight/mockups-05.webp",
           "caption": "Screen 5"
         },
         {
-          "src": "assets/images/projects/mgc-freight/mockups-06.png",
+          "src": "assets/images/projects/mgc-freight/mockups-06.webp",
           "caption": "Screen 6"
         },
         {
-          "src": "assets/images/projects/mgc-freight/mockups-07.png",
+          "src": "assets/images/projects/mgc-freight/mockups-07.webp",
           "caption": "Screen 7"
         },
         {
-          "src": "assets/images/projects/mgc-freight/mockups-08.png",
+          "src": "assets/images/projects/mgc-freight/mockups-08.webp",
           "caption": "Screen 8"
         },
         {
-          "src": "assets/images/projects/mgc-freight/mockups-09.png",
+          "src": "assets/images/projects/mgc-freight/mockups-09.webp",
           "caption": "Screen 9"
         },
         {
-          "src": "assets/images/projects/mgc-freight/mockups-10.png",
+          "src": "assets/images/projects/mgc-freight/mockups-10.webp",
           "caption": "Screen 10"
         }
       ]
@@ -291,15 +291,15 @@ window.GALLERIES = {
       "label": "Flowcharts",
       "images": [
         {
-          "src": "assets/images/projects/mgc-freight/flowcharts-01.png",
+          "src": "assets/images/projects/mgc-freight/flowcharts-01.webp",
           "caption": "Flowchart 1"
         },
         {
-          "src": "assets/images/projects/mgc-freight/flowcharts-02.png",
+          "src": "assets/images/projects/mgc-freight/flowcharts-02.webp",
           "caption": "Flowchart 2"
         },
         {
-          "src": "assets/images/projects/mgc-freight/flowcharts-03.png",
+          "src": "assets/images/projects/mgc-freight/flowcharts-03.webp",
           "caption": "Flowchart 3"
         }
       ]
@@ -308,11 +308,11 @@ window.GALLERIES = {
       "label": "BPMN Diagrams",
       "images": [
         {
-          "src": "assets/images/projects/mgc-freight/bpmn-diagrams-01.png",
+          "src": "assets/images/projects/mgc-freight/bpmn-diagrams-01.webp",
           "caption": "BPMN Diagram 1"
         },
         {
-          "src": "assets/images/projects/mgc-freight/bpmn-diagrams-02.png",
+          "src": "assets/images/projects/mgc-freight/bpmn-diagrams-02.webp",
           "caption": "BPMN Diagram 2"
         }
       ]
@@ -323,51 +323,51 @@ window.GALLERIES = {
       "label": "Wireframes",
       "images": [
         {
-          "src": "assets/images/projects/oohup/wireframes-01.png",
+          "src": "assets/images/projects/oohup/wireframes-01.webp",
           "caption": "Advertiser \u00b7 1"
         },
         {
-          "src": "assets/images/projects/oohup/wireframes-02.png",
+          "src": "assets/images/projects/oohup/wireframes-02.webp",
           "caption": "Advertiser \u00b7 2"
         },
         {
-          "src": "assets/images/projects/oohup/wireframes-03.png",
+          "src": "assets/images/projects/oohup/wireframes-03.webp",
           "caption": "Advertiser \u00b7 3"
         },
         {
-          "src": "assets/images/projects/oohup/wireframes-04.png",
+          "src": "assets/images/projects/oohup/wireframes-04.webp",
           "caption": "Advertiser \u00b7 4"
         },
         {
-          "src": "assets/images/projects/oohup/wireframes-05.png",
+          "src": "assets/images/projects/oohup/wireframes-05.webp",
           "caption": "Advertiser \u00b7 5"
         },
         {
-          "src": "assets/images/projects/oohup/wireframes-06.png",
+          "src": "assets/images/projects/oohup/wireframes-06.webp",
           "caption": "Media owner \u00b7 1"
         },
         {
-          "src": "assets/images/projects/oohup/wireframes-07.png",
+          "src": "assets/images/projects/oohup/wireframes-07.webp",
           "caption": "Media owner \u00b7 2"
         },
         {
-          "src": "assets/images/projects/oohup/wireframes-09.png",
+          "src": "assets/images/projects/oohup/wireframes-09.webp",
           "caption": "Media owner \u00b7 3"
         },
         {
-          "src": "assets/images/projects/oohup/wireframes-10.png",
+          "src": "assets/images/projects/oohup/wireframes-10.webp",
           "caption": "Admin \u00b7 1"
         },
         {
-          "src": "assets/images/projects/oohup/wireframes-11.png",
+          "src": "assets/images/projects/oohup/wireframes-11.webp",
           "caption": "Admin \u00b7 2"
         },
         {
-          "src": "assets/images/projects/oohup/wireframes-12.png",
+          "src": "assets/images/projects/oohup/wireframes-12.webp",
           "caption": "Admin \u00b7 3"
         },
         {
-          "src": "assets/images/projects/oohup/wireframes-13.png",
+          "src": "assets/images/projects/oohup/wireframes-13.webp",
           "caption": "Admin \u00b7 4"
         }
       ]
@@ -376,23 +376,23 @@ window.GALLERIES = {
       "label": "Diagrams",
       "images": [
         {
-          "src": "assets/images/projects/oohup/diagrams-01.png",
+          "src": "assets/images/projects/oohup/diagrams-01.webp",
           "caption": "Diagram 1"
         },
         {
-          "src": "assets/images/projects/oohup/diagrams-03.png",
+          "src": "assets/images/projects/oohup/diagrams-03.webp",
           "caption": "Diagram 2"
         },
         {
-          "src": "assets/images/projects/oohup/diagrams-04.png",
+          "src": "assets/images/projects/oohup/diagrams-04.webp",
           "caption": "Diagram 3"
         },
         {
-          "src": "assets/images/projects/oohup/diagrams-05.png",
+          "src": "assets/images/projects/oohup/diagrams-05.webp",
           "caption": "Diagram 4"
         },
         {
-          "src": "assets/images/projects/oohup/diagrams-07.png",
+          "src": "assets/images/projects/oohup/diagrams-07.webp",
           "caption": "Diagram 5"
         }
       ]
@@ -403,55 +403,55 @@ window.GALLERIES = {
       "label": "Wireframes",
       "images": [
         {
-          "src": "assets/images/projects/sprk-music/01.png",
+          "src": "assets/images/projects/sprk-music/01.webp",
           "caption": "Onboarding"
         },
         {
-          "src": "assets/images/projects/sprk-music/02.png",
+          "src": "assets/images/projects/sprk-music/02.webp",
           "caption": "Sign up"
         },
         {
-          "src": "assets/images/projects/sprk-music/03.png",
+          "src": "assets/images/projects/sprk-music/03.webp",
           "caption": "Login"
         },
         {
-          "src": "assets/images/projects/sprk-music/04.png",
+          "src": "assets/images/projects/sprk-music/04.webp",
           "caption": "Authentication"
         },
         {
-          "src": "assets/images/projects/sprk-music/05.png",
+          "src": "assets/images/projects/sprk-music/05.webp",
           "caption": "Home feed"
         },
         {
-          "src": "assets/images/projects/sprk-music/06.png",
+          "src": "assets/images/projects/sprk-music/06.webp",
           "caption": "Discovery"
         },
         {
-          "src": "assets/images/projects/sprk-music/07.png",
+          "src": "assets/images/projects/sprk-music/07.webp",
           "caption": "Profile"
         },
         {
-          "src": "assets/images/projects/sprk-music/08.png",
+          "src": "assets/images/projects/sprk-music/08.webp",
           "caption": "Search"
         },
         {
-          "src": "assets/images/projects/sprk-music/09.png",
+          "src": "assets/images/projects/sprk-music/09.webp",
           "caption": "Social interactions"
         },
         {
-          "src": "assets/images/projects/sprk-music/10.png",
+          "src": "assets/images/projects/sprk-music/10.webp",
           "caption": "Upload"
         },
         {
-          "src": "assets/images/projects/sprk-music/11.png",
+          "src": "assets/images/projects/sprk-music/11.webp",
           "caption": "Player"
         },
         {
-          "src": "assets/images/projects/sprk-music/12.png",
+          "src": "assets/images/projects/sprk-music/12.webp",
           "caption": "Direct messaging"
         },
         {
-          "src": "assets/images/projects/sprk-music/13.png",
+          "src": "assets/images/projects/sprk-music/13.webp",
           "caption": "Settings"
         }
       ]

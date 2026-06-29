@@ -5,10 +5,11 @@ Dark charcoal theme with a warm-orange accent, dot-grid texture, and per-project
 case-study pages with wireframe / mockup / diagram galleries.
 
 ## Run it locally
-Double-click `index.html`, or run a local server:
+Run the local server (serves `.webp` with the correct MIME type — plain
+`python -m http.server` mislabels WebP on Windows and images look broken):
 
 ```bash
-python -m http.server 8000   # then open http://localhost:8000
+python _dl/serve.py 8000   # then open http://localhost:8000
 ```
 
 ## Structure

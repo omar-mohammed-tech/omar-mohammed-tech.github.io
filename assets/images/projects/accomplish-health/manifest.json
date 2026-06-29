@@ -2,16 +2,16 @@
   {
     "label": "Wireframes",
     "files": [
-      "wireframes-01.png",
-      "wireframes-02.png",
-      "wireframes-03.png",
-      "wireframes-04.png",
-      "wireframes-06.png",
-      "wireframes-07.png",
-      "wireframes-08.png",
-      "wireframes-09.png",
-      "wireframes-10.png",
-      "wireframes-11.png"
+      "wireframes-01.webp",
+      "wireframes-02.webp",
+      "wireframes-03.webp",
+      "wireframes-04.webp",
+      "wireframes-06.webp",
+      "wireframes-07.webp",
+      "wireframes-08.webp",
+      "wireframes-09.webp",
+      "wireframes-10.webp",
+      "wireframes-11.webp"
     ],
     "captions": [
       "Patient app \u00b7 1",
@@ -29,11 +29,11 @@
   {
     "label": "Diagrams",
     "files": [
-      "diagrams-01.png",
-      "diagrams-02.png",
-      "diagrams-03.png",
-      "diagrams-04.png",
-      "diagrams-05.png"
+      "diagrams-01.webp",
+      "diagrams-02.webp",
+      "diagrams-03.webp",
+      "diagrams-04.webp",
+      "diagrams-05.webp"
     ]
   }
 ]
